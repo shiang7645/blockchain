@@ -1,0 +1,2 @@
+接受比特幣付款的Java示例
+使用blockchain.info接收API接收比特幣付款Java示例https://blockchain.info/api/api_receive
